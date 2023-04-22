@@ -18,3 +18,5 @@ function solution(n) {
   return Math.round(sum(index(n)) / 2);
 }
 console.log(solution(4e6));
+
+// https://replit.com/@RockstarPabitra/Euler-002
